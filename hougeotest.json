@@ -1,0 +1,11 @@
+{
+  "path": "$HOUGEOTEST",
+  "load_package_once": true,
+  "enable": "houdini_version >= '19.0'",
+  "version": "1.1.0",
+  "env": [
+    {
+      "HOUGEOTEST": "<ENTER_YOUR_INSTALL_PATH>/hougeotest"
+    }
+  ]
+}
